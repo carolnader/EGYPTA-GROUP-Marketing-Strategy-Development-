@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s36">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      <Style ss:ID="s101">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                                <Font ss:FontName="Verdana" ss:Bold="1"/>
+                              </Style>
+                              <Style ss:ID="s100">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                              </Style></Styles>
+<Worksheet ss:Name="Sheet1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Reporting starts</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Reporting ends</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Campaign name</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Campaign delivery</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Results</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Result indicator</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Cost per results</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Ad set budget</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Ad set budget type</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Amount spent (EGP)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Impressions</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reach</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Ends</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Attribution setting</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-04-15</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-05-15</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">6332.29</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">207491</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">81191</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Multiple attribution settings</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-04-15</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-05-15</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sales (test) | Messages | LONGi |  14 April 2026</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">335</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:onsite_conversion.messaging_conversation_started_7d</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">7.396567</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Daily</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2477.85</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">77524</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">40886</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String">Ongoing</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">7-day click or 1-day view</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-04-15</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-05-15</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sales (test II) | Messages | LONGi |  14 April 2026</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:onsite_conversion.messaging_conversation_started_7d</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">4.818636</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">180</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Daily</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">106.01</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1938</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1702</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String">Ongoing</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">7-day click or 1-day view</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-04-15</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-05-15</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sales (enduser) | Messages | LONGi |  16 April 2026</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">388</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:onsite_conversion.messaging_conversation_started_7d</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">6.695361</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Daily</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2597.8</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">97894</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">49553</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String">Ongoing</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">7-day click or 1-day view</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-04-15</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2026-05-15</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sales (B2B) | Messages | LONGi |  18 April 2026</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">116</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">actions:onsite_conversion.messaging_conversation_started_7d</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">9.919224</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Daily</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1150.63</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30135</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13346</Data></Cell>
+<Cell ss:StyleID="s35"><Data ss:Type="String">Ongoing</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">7-day click or 1-day view</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
